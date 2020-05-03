@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1587318022 source:d:\proga(lab5)\proga(lab6)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+
